@@ -1,4 +1,4 @@
-# * TextPreprocessing 1: <br/>
+# TextPreprocessing 1: <br/>
 &ensp;Implemented: <br/>
 &ensp; &ensp; Tokenization <br/>
 &ensp; &ensp; Stop words removal <br/>
