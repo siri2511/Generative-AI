@@ -1,8 +1,8 @@
-TextPreprocessing 1: 
-  Implemented:
-    Tokenization
-    Stop words removal
-    Stemming
-    Lemmatization
-    Bag of Words
-  Library used: NLTK
+TextPreprocessing 1: <br/>
+  Implemented: <br/>
+    Tokenization <br/>
+    Stop words removal <br/>
+    Stemming <br/>
+    Lemmatization <br/>
+    Bag of Words <br/>
+  Library used: NLTK <br/>
